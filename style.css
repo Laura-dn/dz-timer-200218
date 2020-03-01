@@ -1,0 +1,27 @@
+@font-face {
+    font-family: DIG;
+    src: url(DIG.ttf);
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    background-color: rgb(168, 232, 248);
+}
+section {
+    margin: 0 auto;
+    text-align: center;
+}
+#tablo {
+    font-family: DIG;
+    font-weight: bold;
+    font-size: 3em;
+    padding: 20px;
+}
+button {
+    width: 100px;
+    height: 50px;
+    border-radius: 7px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
